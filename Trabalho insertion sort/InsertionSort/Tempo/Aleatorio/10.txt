@@ -1,0 +1,4 @@
+Qual o tamanho do vetor?: 10
+Algoritmo: InsertionSort
+Tipo: Aleatorio
+Tempo: 0.000000

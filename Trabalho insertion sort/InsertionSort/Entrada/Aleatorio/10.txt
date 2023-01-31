@@ -1,0 +1,13 @@
+        Fala Pedro, Qual o tamanho do vetor que você deseja?: 10
+Algoritmo: InsertionSort
+Tipo: Aleatorio
+ 41
+ 18467
+ 6334
+ 26500
+ 19169
+ 15724
+ 11478
+ 29358
+ 26962
+ 24464

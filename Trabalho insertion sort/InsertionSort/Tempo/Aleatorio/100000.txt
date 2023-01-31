@@ -1,0 +1,4 @@
+Tamanho: 100000
+Algoritmo: InsertionSort
+Tipo: Aleatorio
+Tempo: 30.425000

@@ -1,0 +1,4 @@
+Tamanho: 1000000
+Algoritmo: InsertionSort
+Tipo: Crescente
+Tempo: 0.016000
